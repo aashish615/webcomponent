@@ -1,0 +1,12 @@
+{
+  "name": "@ashish-core/webcomponent",
+  "version": "1.0.4",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "files": [
+    "elements.js",
+    "style.scss"
+  ]
+}
